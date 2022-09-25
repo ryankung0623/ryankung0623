@@ -1,8 +1,6 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on `deep reinforcement learning based trading program`
-- 🌱 I’m currently learning **deep learning**
-- 👯 I’m looking to collaborate on **data science projects**
+- 🔭 I’m currently working on financial analytics, financial NLP
 - 🤔 I’m looking for help with **reward shaping**
 - 💬 Ask me about financial market and **data science**
 - 📫 How to reach me: arek.holdings@gmail.com
